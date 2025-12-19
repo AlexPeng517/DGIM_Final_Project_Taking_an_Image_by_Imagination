@@ -63,5 +63,4 @@ python evaluate_methods.py
 - **Camera Tokens**: [Camera-Settings-as-Tokens-SD2](https://huggingface.co/ishengfang/Camera-Settings-as-Tokens-SD2)
 
 ## Acknowledgements
-
-Developed as part of the DGIM Final Project.
+We sincerely thank I-sheng Fang, the author of [Camera-Settings-as-Tokens-SD2](https://huggingface.co/ishengfang/Camera-Settings-as-Tokens-SD2), for providing technical support and inspiration for building this project.
